@@ -1,0 +1,3 @@
+[submodule "reinforcement_learning/reinforcement_learning/alpha_zero"]
+	path = reinforcement_learning/reinforcement_learning/alpha_zero
+	url = https://github.com/pavolkacej/alpha-zero-general.git
